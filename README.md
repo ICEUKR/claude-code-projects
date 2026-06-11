@@ -2,7 +2,7 @@
 
 A collection of projects built with Claude Code.
 
-## Geting Started
+## Getting Started
 
 1. Clone this repository
 2. Open the project folder
@@ -12,8 +12,8 @@ A collection of projects built with Claude Code.
 
 - Fast iteration with AI assistance
 - Automatic code review
-- Easy GitHub intergration
+- Easy GitHub integration
 
-## Licence
+## License
 
 MIT
